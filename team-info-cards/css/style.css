@@ -112,8 +112,7 @@ section {
     transition: all 0.5s;
 }
 
-.card .about:hover {
-    transform: scale(1);
+.card:hover .about {
     opacity: 1;
     top: 0px;
     z-index: 1001;
